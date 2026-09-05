@@ -4,9 +4,7 @@
 I’m a Computer Science student actively building skills in Python, automation, and cybersecurity.  
 learning by building projects and contributing to open source.
 
-## 🔭 Currently Working On
-- Building beginner-friendly Python tools for automation and security
-- Open source contributions
+
 
 ## 💻 Skills
 **Languages:** Python, C 
