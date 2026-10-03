@@ -4,14 +4,6 @@
 
 ---
 
-### What I'm working on
-
-- Exploring AI/ML engineering, agent systems, and LLM applications
-- Building foundations in cybersecurity — Linux, networking, SOC, threat detection
-- Learning Kubernetes, cloud-native tooling, and distributed systems from first principles
-
----
-
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
