@@ -1,16 +1,31 @@
-# Hi, I’m Pradeep 👋  
-**Aspiring Software Developer | Python | Cybersecurity Enthusiast**
+# Pradeep Beleri
 
-I’m a Computer Science student actively building skills in Python, automation, and cybersecurity.  
-learning by building projects and contributing to open source.
+**Computer Science Undergraduate** · Building at the intersection of AI, Security, and Cloud Native systems.
 
+---
 
+### What I'm working on
 
-## 💻 Skills
-**Languages:** Python, C 
-**Tools:** Git, GitHub, VS Code  
-**Interests:** Cybersecurity, Automation, AI 
+- Exploring AI/ML engineering, agent systems, and LLM applications
+- Building foundations in cybersecurity — Linux, networking, SOC, threat detection
+- Learning Kubernetes, cloud-native tooling, and distributed systems from first principles
 
-## 📫 Contact Me
-- Email: **pradpie@gmail.com**
+---
+
+### Tech
+
+`Go` `Python`  `Bash` · `Kubernetes` `Docker`  `GitHub Actions` ·  `Linux`
+
+---
+
+### Philosophy
+
+> *Build. Break. Understand. Improve.*
+
+The fastest way to learn engineering is to read real code, solve real problems, and ship real contributions.
+
+---
+
+*Open to connecting with engineers, maintainers, and anyone working in AI, security, or developer infrastructure.*
+
 
