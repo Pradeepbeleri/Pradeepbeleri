@@ -1,4 +1,4 @@
-# Pradeep Beleri
+# Pradeep 
 
 **Computer Science Undergraduate** · Building at the intersection of AI, Security, and Cloud Native systems.
 
